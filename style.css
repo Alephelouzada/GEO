@@ -101,7 +101,7 @@ margin-bottom: 10px;
   text-transform: lowercase;
   font-weight: 800;
   letter-spacing: 4px;
-  color:black;
+  color:rgb(30, 114, 55);
   background-color: aqua;
   cursor: pointer;
   box-shadow: 0px 10px rgba(22, 179,145,0,568);
@@ -110,5 +110,5 @@ margin-bottom: 10px;
 
 .btn-login:hover{
   transition: background;
-  background: rgba(2, 2, 2, 0.911) 
+  background: rgba(231, 229, 229, 0.911) 
 }
