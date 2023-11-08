@@ -25,7 +25,7 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 
 ## Deploy
 
-O projeto está disponível em () para visualização.
+O projeto está disponível em (https://alephelouzada.github.io/GEO/) para visualização.
 
 Seja bem-vindo ao Geo, e sinta-se à vontade para contribuir ou entrar em contato conosco!
 
